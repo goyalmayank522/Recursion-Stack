@@ -1,2 +1,2 @@
 # Recursion-Stack
-Collection of various recursion and stack problems
+Collection of various Recursion, Stack & Heap problems
